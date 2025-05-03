@@ -1,0 +1,27 @@
+Character,Dialogue,Image
+WESTON,"I’m here. So, what are--",WESTON
+ANASET,Hold on.,ANASET
+WESTON,Um...?,WESTON
+ANASET,There!,ANASET
+TALON,We’re good.,TALON
+WESTON,W-who are--Anaset?!,WESTON
+TALON,I’m Talon.,TALON
+ANASET,He’s Talon.,ANASET
+WESTON,"Yeah. I heard. By WHO is he? WHY is he, even?",WESTON
+TALON,Anaset patched me in via a sub-network. We piggy back off of the official station connection but our voice goes through encrypted and sounds like static over the line to anyone not looking close enough.,TALON
+TALON,And officials don’t ever look close enough when it matters.,TALON
+WESTON,Great. Love it. Thanks. Why are you here?,WESTON
+ANASET,"Uh. Well. Um... Whatever--quick like a band-aid. Don’t be mad but, Talon’s a Junker.",ANASET
+WESTON,A Junker?! Interstellar doesn’t seem the type to work with anyone that isn’t above board.,WESTON
+TALON,"Buddy, they work with folks well below board. They just don’t work with Junkers. We’re too known by the general public.",TALON
+ANASET,"We can go over this later, but Talon is gonna recharge your ship--free of charge because he owes me. But I owe Hatchet so, we’re going to need you to deliver this package.",ANASET
+WESTON,And who is Hatchet?,WESTON
+TALON,"Time is of the essence, so you’re on the clock with this one.",TALON
+ANASET,We can’t have ISU getting curious so I secured another on the record package that needs to go to the same station where Hatchet is at. Everything should look status-quo on the record and travel logs.,ANASET
+WESTON,Meaning Hatchet’s package isn’t on the record?,WESTON
+TALON,Not if we did our job right.,TALON
+WESTON,I don’t know about this. ,WESTON
+ANASET,"I promise, I’ll answer any question you have but we need you to go. Now.",ANASET
+TALON,"I’m gonna top you off, load up your ship and then you’re gonna fly to Portharbor. It’s station 236. You dock, you call Anaset, and she’ll patch you through to Hatchet. Got it?",TALON
+WESTON,Do I have choice?,WESTON
+TALON,"Everyone’s gotta choice, bud. Question is if you can handle the consequence.",TALON

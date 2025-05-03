@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d9b87ade30514657a8ad639d417f2fb, type: 3}
+  m_Name: Temp Package 26
+  m_EditorClassIdentifier: 
+  deliveryName: Temp Package
+  deliveryDescription: A painting of a pastrer on a planet somehwere in the next
+    sector. For as important as this seems, it's packing isn't very secure.
+  stationNum: 242
+  stationToDeliverTo: 236
+  weight: 10
+  size: 1
+  icon: {fileID: 21300000, guid: 1a2c44cae3ed147bc9cfe912fcca852e, type: 3}
+  isFragile: 1
+  hp: 40
+  value: 85
+  id: 2

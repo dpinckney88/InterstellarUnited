@@ -1,0 +1,14 @@
+Character,Dialogue,Image
+WESTON,"Hey, um... I think I’m at the right station? Station 202?",WESTON
+ANASET,Let me see...,ANASET
+ANASET,"Yeah, you’re in the right place! Station 202. Talick-Kovos Station. Named after the not-so long and the not-so holy matrimony of Dallen Talick and Sasha Kovas.",ANASET
+ANASET,Imagine a family so rich they buy a space station and naming it in honor of your kid and their fling of the week?,ANASET
+WESTON,Anaset?,WESTON
+ANASET,"Sorry. Right. You should be in able to dock with any station in this sector. That includes, obviously, the one you are at now.",ANASET
+ANASET,You don’t need the pre-authorization for docking now that your ship is registered with Interstellar United.,ANASET
+ANASET,"The trade off though, is when you’re in the station safe zone, your weapons are automatically cut and comms all switch to the stations main network.",ANASET
+WESTON,Uh. Okay? I guess that’s fine.,WESTON
+ANASET,It’s gonna have to be.,ANASET
+ANASET,"I secured you a delivery from this station. Dock, select the package for pick up, then deliver it to it’s destination. All the information will be on the shipping label. I’ll check in when I get the package delivered notification.",ANASET
+WESTON,"Sure. Dock, select, ship.",WESTON
+ANASET,Got it in one!,ANASET

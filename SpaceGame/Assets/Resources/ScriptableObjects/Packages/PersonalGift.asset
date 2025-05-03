@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d9b87ade30514657a8ad639d417f2fb, type: 3}
+  m_Name: PersonalGift
+  m_EditorClassIdentifier: 
+  deliveryName: Personal Gift
+  deliveryDescription: Small package wrapped professionally well. Clearly a lot of
+    care and thought went into this gift given the quailty of the wrap and the large
+    card attached to it.
+  stationNum: 1
+  stationToDeliverTo: 9
+  weight: 10
+  size: 1
+  icon: {fileID: 21300000, guid: 9864b30d3b1b24b18abf0007647963e8, type: 3}
+  isFragile: 0
+  hp: 100
+  value: 20
+  id: 1

@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PackageList
+  - SpaceStation
+  - GlobalPackageRegistry
+  - ShipModificationUI
+  - RefuelStation
+  - BossSpawn
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Enemy
+  - PlayerProjectile
+  - PlayerUnit
+  - EnemyProjectile
+  - MiniMap Icons
+  - SpaceStation
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 2825225547
+    locked: 0
+  - name: Boss
+    uniqueID: 1241866223
+    locked: 0
+  - name: Enemies
+    uniqueID: 681500871
+    locked: 0
+  - name: InGameUI
+    uniqueID: 2567808713
+    locked: 0
+  - name: Stations
+    uniqueID: 2659876905
+    locked: 0
