@@ -126,6 +126,7 @@ public class NarrativeProcessor : MonoBehaviour
         int lineNum = 0;
         foreach (string line in sceneLine)
         {
+            //Split on commas that are NOT part of dialouge
             String[] lineByCell = Regex.Split(line, ",(?=(?:[^\"]*\"[^\"]*\")*[^\"]*$)");
             if (lineNum == 0 || lineByCell.Length < 2)
             {
@@ -135,7 +136,7 @@ public class NarrativeProcessor : MonoBehaviour
 
             Dialogue temp = new Dialogue();
             temp.characterName = lineByCell[0].Trim();
-            temp.dialogue = lineByCell[1].Trim();
+            temp.dialogue = CleanUpDialogue(lineByCell[1].Trim());
             temp.portraitAssetPath = lineByCell[2].Trim();
             processedDialogue.Add(temp);
         }
@@ -150,6 +151,17 @@ public class NarrativeProcessor : MonoBehaviour
         //Initiate the Dialogue
         InitiateDialogue();
 
+    }
+
+    //Remove unneeded double quotes that are added do to csv encoding
+    private string CleanUpDialogue(string dialogue)
+    {
+
+        if (dialogue[0] == '\"' && dialogue[dialogue.Length - 1] == '\"')
+        {
+            dialogue = dialogue.Substring(1, dialogue.Length - 2);
+        }
+        return dialogue;
     }
 
     private void InitiateDialogue()

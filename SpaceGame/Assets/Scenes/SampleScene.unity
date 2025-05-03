@@ -2206,7 +2206,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7122220382547664577, guid: e1ffdb36ebcbb46fea77299d2ab17b93, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7693393099110822371, guid: e1ffdb36ebcbb46fea77299d2ab17b93, type: 3}
       propertyPath: m_Name
@@ -4086,7 +4086,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &880444958
 RectTransform:
   m_ObjectHideFlags: 0
@@ -10762,7 +10762,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &2094682805
 RectTransform:
   m_ObjectHideFlags: 0
@@ -11696,7 +11696,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3994640773807487359, guid: 903240d724d2e49369cd4a67b98df267, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5119790602358701327, guid: 903240d724d2e49369cd4a67b98df267, type: 3}
       propertyPath: m_fontSize

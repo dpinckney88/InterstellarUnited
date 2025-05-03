@@ -33,8 +33,8 @@ public class FirstDayOnTheJob : IQuest
     // Start is called before the first frame update
     public void Setup()
     {
-        questObjectives.Add(new Objective1());
-        questObjectives.Add(new Objective2());
+        //questObjectives.Add(new Objective1());
+        //questObjectives.Add(new Objective2());
         questObjectives.Add(new Objective3());
         questObjectives.Add(new Objective4());
         questStarted?.Invoke(this, new QuestStartedArgs() { quest = this });
